@@ -7,6 +7,10 @@ The Dr. Llama bot provides prescriptions based on the user's past disease histor
 ![bandicam 2024-09-19 19-13-43-907](https://github.com/user-attachments/assets/d61e23f1-b7da-4722-bb85-6effbc3f05aa)
 
 
+## Overview 
+![image](https://github.com/user-attachments/assets/e76dc56b-e792-4cd8-9bbf-23ba7b055824)
+
+
 ## Components
 - User history in DB
 - External knowledge relevant to current symptoms
