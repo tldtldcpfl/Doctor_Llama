@@ -8,7 +8,8 @@ The Dr. Llama bot provides prescriptions based on the user's past disease histor
 
 
 ## Overview 
-![image](https://github.com/user-attachments/assets/d33a50e7-fc00-4946-9aef-981d063d3dad)
+![image](https://github.com/user-attachments/assets/c27d90b9-075f-4acf-8197-5c336949bf19)
+
 
 
 
