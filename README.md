@@ -19,5 +19,3 @@ The Dr. Llama bot provides prescriptions based on the user's past disease histor
 - External knowledge relevant to current symptoms
 
 
-</br>
-Code files will be uploaded..
